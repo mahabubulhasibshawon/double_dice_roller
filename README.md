@@ -5,10 +5,10 @@ This Flutter application allows users to roll two dice individually with a singl
 ## Table of Contents
 
 - [Installation](#installation)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Files](#files)
   - [Key Points](#key-points)
-- [Screenshots](#screenshots)
 - [Assets](#assets)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,16 +31,11 @@ This Flutter application allows users to roll two dice individually with a singl
    ```sh
    flutter pub get
    ```
-## Screenshots
+## Screen Records
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Main screen with the gradient background and dice display.*
+https://github.com/mahabubulhasibshawon/double_dice_roller/assets/96023468/dd40fd9a-32f5-4109-9eb8-fcf906d99b92
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Dice rolling in action.*
 
-![Screenshot 3](screenshots/screenshot3.png)
-*Updated dice results after rolling.*
 
 ## Usage
 
