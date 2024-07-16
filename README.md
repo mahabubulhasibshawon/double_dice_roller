@@ -18,8 +18,8 @@ This Flutter application allows users to roll two dice individually with a singl
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-repo/flutter-dice-roller.git
-   cd flutter-dice-roller
+   git clone https://github.com/mahabubulhasibshawon/double_dice_roller.git
+   cd double_dice_roller
    ```
 
 2. **Install Flutter:**
